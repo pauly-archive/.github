@@ -1,12 +1,5 @@
-## Hi there 👋
+# pauly-archive
 
-<!--
+개인 학습 기록과 실습 코드를 보관하는 아카이브입니다.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+기존 작업 이력을 정리하고 보존하기 위한 공간입니다.
